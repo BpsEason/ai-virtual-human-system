@@ -67,7 +67,7 @@
 1. **環境準備**: 安裝 Docker Desktop 與 Git，確保端口 `80`、`3306`、`6379`、`5173` 未被佔用。  
 2. **複製專案**:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BpsEason/ai-virtual-human-system.git
    cd ai-virtual-human-system
    ```
 3. **啟動容器**:  
